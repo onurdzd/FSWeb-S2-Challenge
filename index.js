@@ -185,18 +185,6 @@ function emojileriDonustur(mesaj, emojiler) {
   return mesaj;
 }
 
-// function emojileriDonustur(mesaj, emojiler) {
-//   mesaj.split(" ").forEach((item) => {
-//     for (let key in emojiler) {
-//       if (key == item.toLowerCase()) {
-//        item = emojiler[key];
-// 	   console.log(`Selam ${item} Nasılsın ${item} Bugünkü olay çok komikti ${item} ama sonra çok şaşırdık ${item} biraz da üzüldük ${item} ama yine de seviliyorsun ${item}`)
-//       }
-//     }
-// });
-// }
-
-//`Selam ${item} Nasılsın ${item} Bugünkü olay çok komikti ${item} ama sonra çok şaşırdık ${item} biraz da üzüldük ${item} ama yine de seviliyorsun ${item}`;
 
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 function sa() {
